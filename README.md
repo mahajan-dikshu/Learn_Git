@@ -14,11 +14,11 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: MUSKAN BHAGAT
-- Roll No.:2019010053576
-- Interests: AI
+- Name: DIKSHITA MAHAJAN
+- Roll No.:2018CSA1068
+- Interests: SOFTWARE ENGINEERING
 
-- Name: NIRMAL DEEP KAUR
-- Roll NO.: 155
-- Intrests : Web Development, Graphics Designing .
+- Name: DIKSHITA MAHAJAN
+- Roll NO.: 2018CSA1068
+- Intrests : SOFTWARE ENGINEERING
 
